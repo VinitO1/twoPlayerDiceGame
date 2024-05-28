@@ -1,3 +1,3 @@
 # twoPlayerDiceGame
 Access the website here:
-https://vinito1.github.io/twoPlayerDiceGame/
+[Dice Game](https://vinito1.github.io/twoPlayerDiceGame/)
